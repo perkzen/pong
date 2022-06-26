@@ -1,9 +1,10 @@
 # Pong
 
-<img src="pictures/pong.png">
+<img src="pictures/pong.png" alt="pong">
 
 ## Summary
-Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball.
+Pong is one of the first computer games that ever created. I tried it to recreate it by using the go programming language and
+a TUI framework called `Bubble Tea`.
 
 ## Getting Started
 #### Go version: 1.18.1
